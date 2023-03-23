@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    box-shadow: 10px 7px 17px 0 #00000066;
+}
+
+td {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    background-color: #00d6f82e;
+}
+
+td:hover {
+    background-color: #008da35c;
+}
